@@ -1,0 +1,6 @@
+{
+  "name": "Dapodik Cloud - Administrasi Data Pokok Pendidikan",
+  "description": "Aplikasi administrasi Dapodik terpadu untuk pengelolaan data sarana & prasarana, peserta didik, guru, dan tendik dengan fitur sinkronisasi real-time ke server pusat Kemendikbudristek.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
